@@ -1,0 +1,12 @@
+{
+    "newbie": {
+        "index": "newbie",
+        "items": [
+            {
+                "name": "qr-code-main-content",
+                "difficulty": "newbie",
+                "url": "./qr-code-component-main/index.html"
+            }
+        ]
+    }
+}
